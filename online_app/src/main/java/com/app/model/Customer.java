@@ -45,5 +45,15 @@ public class Customer {
 		return "Customer [id=" + id + ", firstname=" + firstname + ", lastname=" + lastname + ", email=" + email
 				+ ", password=" + password + "]";
 	}
+	public Customer(int id, String firstname,String lastname,String email,String password ) {
+		super();
+		this.id = id;
+		this.firstname = firstname;
+		this.lastname = lastname;
+		this.email = email;
+		this.password = password;
+		
+	}
+	
 
 }

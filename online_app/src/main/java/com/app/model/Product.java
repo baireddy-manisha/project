@@ -6,7 +6,16 @@ public class Product {
 	private double price;
 	private float quantity;
 	private float rating;
+	private String category;
 	
+	public String getCategory() {
+		return category;
+	}
+
+	public void setCategory(String category) {
+		this.category = category;
+	}
+
 	public Product() {
 		// TODO Auto-generated constructor stub
 	}
@@ -44,7 +53,7 @@ public class Product {
 	@Override
 	public String toString() {
 		return "Product [product_id=" + product_id + ", product_name=" + product_name + ", price=" + price
-				+ ", quantity=" + quantity + ", rating=" + rating + "]";
+				+ ", quantity=" + quantity + ", rating=" + rating + ", category=" + category + "]";
 	}
 	
 }

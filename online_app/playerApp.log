@@ -196,3 +196,740 @@ Enter your password :
 [main] 2021-08-18 13:13:18 INFO  com.app.Main  - 2)view orders
 [main] 2021-08-18 13:13:18 INFO  com.app.Main  - 3)Exit
 [main] 2021-08-18 13:13:18 INFO  com.app.Main  - enter ur choice
+[main] 2021-08-18 15:14:44 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-18 15:14:44 INFO  com.app.Main  - ------------------------------------
+[main] 2021-08-18 15:14:44 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-18 15:14:44 INFO  com.app.Main  - 1)Login As Employee
+[main] 2021-08-18 15:14:44 INFO  com.app.Main  - 2)Login As Customer
+[main] 2021-08-18 15:14:44 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-18 15:14:44 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-18 15:14:44 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 15:14:51 INFO  com.app.Main  - WELCOME TO CUSTOMER PAGE
+[main] 2021-08-18 15:14:51 INFO  com.app.Main  - **------------***-------------**
+[main] 2021-08-18 15:14:51 INFO  com.app.Main  - /n Enter your Email:
+[main] 2021-08-18 15:15:12 INFO  com.app.Main  - 
+ Enter your password:
+[main] 2021-08-18 15:15:18 INFO  com.app.Main  - 
+[main] 2021-08-18 15:15:18 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-18 15:15:18 INFO  com.app.Main  - 1)Login As Employee
+[main] 2021-08-18 15:15:18 INFO  com.app.Main  - 2)Login As Customer
+[main] 2021-08-18 15:15:18 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-18 15:15:18 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-18 15:15:18 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 15:18:07 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-18 15:18:07 INFO  com.app.Main  - ------------------------------------
+[main] 2021-08-18 15:18:07 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-18 15:18:07 INFO  com.app.Main  - 1)Login As Employee
+[main] 2021-08-18 15:18:07 INFO  com.app.Main  - 2)Login As Customer
+[main] 2021-08-18 15:18:07 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-18 15:18:07 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-18 15:18:07 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 15:18:14 INFO  com.app.Main  - WELCOME TO CUSTOMER PAGE
+[main] 2021-08-18 15:18:14 INFO  com.app.Main  - **------------***-------------**
+[main] 2021-08-18 15:18:14 INFO  com.app.Main  - /n Enter your Email:
+[main] 2021-08-18 15:18:27 INFO  com.app.Main  - 
+ Enter your password:
+[main] 2021-08-18 15:18:41 INFO  com.app.Main  - 
+ customer login successfull 
+[main] 2021-08-18 15:18:41 INFO  com.app.Main  - 
+ Welcomemanisha
+[main] 2021-08-18 15:18:41 INFO  com.app.Main  - ---------------------
+[main] 2021-08-18 15:18:41 INFO  com.app.Main  - 1)search product
+[main] 2021-08-18 15:18:41 INFO  com.app.Main  - 2)view orders
+[main] 2021-08-18 15:18:41 INFO  com.app.Main  - 3)Exit
+[main] 2021-08-18 15:18:41 INFO  com.app.Main  - enter ur choice
+[main] 2021-08-18 15:19:03 WARN  com.app.Main  - Invalid choice... Choice should be only number between 1-3 only 
+[main] 2021-08-18 15:19:03 INFO  com.app.Main  - ---------------------
+[main] 2021-08-18 15:19:03 INFO  com.app.Main  - 1)search product
+[main] 2021-08-18 15:19:03 INFO  com.app.Main  - 2)view orders
+[main] 2021-08-18 15:19:03 INFO  com.app.Main  - 3)Exit
+[main] 2021-08-18 15:19:03 INFO  com.app.Main  - enter ur choice
+[main] 2021-08-18 15:19:21 WARN  com.app.Main  - Invalid choice... Choice should be only number between 1-3 only 
+[main] 2021-08-18 15:19:21 INFO  com.app.Main  - ---------------------
+[main] 2021-08-18 15:19:21 INFO  com.app.Main  - 1)search product
+[main] 2021-08-18 15:19:21 INFO  com.app.Main  - 2)view orders
+[main] 2021-08-18 15:19:21 INFO  com.app.Main  - 3)Exit
+[main] 2021-08-18 15:19:21 INFO  com.app.Main  - enter ur choice
+[main] 2021-08-18 15:27:21 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-18 15:27:21 INFO  com.app.Main  - ------------------------------------
+[main] 2021-08-18 15:27:21 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-18 15:27:21 INFO  com.app.Main  - 1)Login As Employee
+[main] 2021-08-18 15:27:21 INFO  com.app.Main  - 2)Login As Customer
+[main] 2021-08-18 15:27:21 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-18 15:27:21 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-18 15:27:21 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 15:27:34 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-18 15:27:34 INFO  com.app.Main  - ------------------------------------
+[main] 2021-08-18 15:27:34 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-18 15:27:34 INFO  com.app.Main  - 1)Login As Employee
+[main] 2021-08-18 15:27:34 INFO  com.app.Main  - 2)Login As Customer
+[main] 2021-08-18 15:27:34 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-18 15:27:34 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-18 15:27:34 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 15:27:39 INFO  com.app.Main  - WELCOME TO CUSTOMER PAGE
+[main] 2021-08-18 15:27:39 INFO  com.app.Main  - **------------***-------------**
+[main] 2021-08-18 15:27:39 INFO  com.app.Main  - /n Enter your Email:
+[main] 2021-08-18 15:27:55 INFO  com.app.Main  - 
+ Enter your password:
+[main] 2021-08-18 15:28:00 INFO  com.app.Main  - 
+ customer login successfull 
+[main] 2021-08-18 15:28:00 INFO  com.app.Main  - 
+ Welcomemanisha
+[main] 2021-08-18 15:28:00 INFO  com.app.Main  - ---------------------
+[main] 2021-08-18 15:28:00 INFO  com.app.Main  - 1)search product
+[main] 2021-08-18 15:28:00 INFO  com.app.Main  - 2)view orders
+[main] 2021-08-18 15:28:00 INFO  com.app.Main  - 3)Exit
+[main] 2021-08-18 15:28:00 INFO  com.app.Main  - enter ur choice
+[main] 2021-08-18 15:28:03 WARN  com.app.Main  - Invalid choice... Choice should be only number between 1-3 only 
+[main] 2021-08-18 15:28:03 INFO  com.app.Main  - ---------------------
+[main] 2021-08-18 15:28:03 INFO  com.app.Main  - 1)search product
+[main] 2021-08-18 15:28:03 INFO  com.app.Main  - 2)view orders
+[main] 2021-08-18 15:28:03 INFO  com.app.Main  - 3)Exit
+[main] 2021-08-18 15:28:03 INFO  com.app.Main  - enter ur choice
+[main] 2021-08-18 16:24:39 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-18 16:24:39 INFO  com.app.Main  - ------------------------------------
+[main] 2021-08-18 16:24:39 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-18 16:24:39 INFO  com.app.Main  - 1)Login As Employee
+[main] 2021-08-18 16:24:39 INFO  com.app.Main  - 2)Login As Customer
+[main] 2021-08-18 16:24:39 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-18 16:24:39 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-18 16:24:39 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 16:24:57 INFO  com.app.Main  - WELCOME TO CUSTOMER PAGE
+[main] 2021-08-18 16:24:57 INFO  com.app.Main  - **------------***-------------**
+[main] 2021-08-18 16:24:57 INFO  com.app.Main  - /n Enter your Email:
+[main] 2021-08-18 16:25:11 INFO  com.app.Main  - 
+ Enter your password:
+[main] 2021-08-18 16:25:14 INFO  com.app.Main  - 
+ customer login successfull 
+[main] 2021-08-18 16:25:14 INFO  com.app.Main  - 
+ Welcomemanisha
+[main] 2021-08-18 16:25:14 INFO  com.app.Main  - ---------------------
+[main] 2021-08-18 16:25:14 INFO  com.app.Main  - 1)search product
+[main] 2021-08-18 16:25:14 INFO  com.app.Main  - 2)view orders
+[main] 2021-08-18 16:25:14 INFO  com.app.Main  - 3)Exit
+[main] 2021-08-18 16:25:14 INFO  com.app.Main  - enter ur choice
+[main] 2021-08-18 16:25:16 WARN  com.app.Main  - Invalid choice... Choice should be only number between 1-3 only 
+[main] 2021-08-18 16:25:16 INFO  com.app.Main  - ---------------------
+[main] 2021-08-18 16:25:16 INFO  com.app.Main  - 1)search product
+[main] 2021-08-18 16:25:16 INFO  com.app.Main  - 2)view orders
+[main] 2021-08-18 16:25:16 INFO  com.app.Main  - 3)Exit
+[main] 2021-08-18 16:25:16 INFO  com.app.Main  - enter ur choice
+[main] 2021-08-18 16:50:18 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-18 16:50:18 INFO  com.app.Main  - ------------------------------------
+[main] 2021-08-18 16:50:18 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-18 16:50:18 INFO  com.app.Main  - 1)Login As Employee
+[main] 2021-08-18 16:50:18 INFO  com.app.Main  - 2)Login As Customer
+[main] 2021-08-18 16:50:18 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-18 16:50:18 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-18 16:50:18 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 16:51:10 INFO  com.app.Main  - WELCOME TO CUSTOMER PAGE
+[main] 2021-08-18 16:51:10 INFO  com.app.Main  - **------------***-------------**
+[main] 2021-08-18 16:51:10 INFO  com.app.Main  - /n Enter your Email:
+[main] 2021-08-18 16:51:22 INFO  com.app.Main  - 
+ Enter your password:
+[main] 2021-08-18 16:51:34 INFO  com.app.Main  - 
+ customer login successfull 
+[main] 2021-08-18 16:51:34 INFO  com.app.Main  - 
+ Welcomemanisha
+[main] 2021-08-18 16:51:34 INFO  com.app.Main  - ---------------------
+[main] 2021-08-18 16:51:34 INFO  com.app.Main  - 1)search product
+[main] 2021-08-18 16:51:34 INFO  com.app.Main  - 2)view orders
+[main] 2021-08-18 16:51:34 INFO  com.app.Main  - 3)Exit
+[main] 2021-08-18 16:51:34 INFO  com.app.Main  - enter ur choice
+[main] 2021-08-18 16:51:36 WARN  com.app.Main  - Invalid choice... Choice should be only number between 1-3 only 
+[main] 2021-08-18 16:51:36 INFO  com.app.Main  - ---------------------
+[main] 2021-08-18 16:51:36 INFO  com.app.Main  - 1)search product
+[main] 2021-08-18 16:51:36 INFO  com.app.Main  - 2)view orders
+[main] 2021-08-18 16:51:36 INFO  com.app.Main  - 3)Exit
+[main] 2021-08-18 16:51:36 INFO  com.app.Main  - enter ur choice
+[main] 2021-08-18 19:50:10 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-18 19:50:10 INFO  com.app.Main  - ------------------------------------
+[main] 2021-08-18 19:50:10 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-18 19:50:10 INFO  com.app.Main  - 1)Login As Employee
+[main] 2021-08-18 19:50:10 INFO  com.app.Main  - 2)Login As Customer
+[main] 2021-08-18 19:50:10 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-18 19:50:10 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-18 19:50:10 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 19:50:29 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-18 19:50:29 INFO  com.app.Main  - ------------------------------------
+[main] 2021-08-18 19:50:29 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-18 19:50:29 INFO  com.app.Main  - 1)Login As Employee
+[main] 2021-08-18 19:50:29 INFO  com.app.Main  - 2)Login As Customer
+[main] 2021-08-18 19:50:29 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-18 19:50:29 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-18 19:50:29 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 19:50:34 INFO  com.app.Main  -  Register page
+[main] 2021-08-18 19:50:36 INFO  com.app.Main  - 
+[main] 2021-08-18 19:50:36 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-18 19:50:36 INFO  com.app.Main  - 1)Login As Employee
+[main] 2021-08-18 19:50:36 INFO  com.app.Main  - 2)Login As Customer
+[main] 2021-08-18 19:50:36 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-18 19:50:36 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-18 19:50:36 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:14:36 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-18 22:14:36 INFO  com.app.Main  - ------------------------------------
+[main] 2021-08-18 22:14:36 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-18 22:14:36 INFO  com.app.Main  - 1)Login As Employee
+[main] 2021-08-18 22:14:36 INFO  com.app.Main  - 2)Login As Customer
+[main] 2021-08-18 22:14:36 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-18 22:14:36 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-18 22:14:36 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:14:42 INFO  com.app.Main  - WELCOME TO CUSTOMER PAGE
+[main] 2021-08-18 22:14:42 INFO  com.app.Main  - **------------***-------------**
+[main] 2021-08-18 22:14:42 INFO  com.app.Main  - /n Enter your Email:
+[main] 2021-08-18 22:14:54 INFO  com.app.Main  - 
+ Enter your password:
+[main] 2021-08-18 22:14:58 INFO  com.app.Main  - 
+ customer login successfull 
+[main] 2021-08-18 22:14:58 INFO  com.app.Main  - 
+ Welcomemanisha
+[main] 2021-08-18 22:14:58 INFO  com.app.Main  - ---------------------
+[main] 2021-08-18 22:14:58 INFO  com.app.Main  - 1)search product
+[main] 2021-08-18 22:14:58 INFO  com.app.Main  - 2)view orders
+[main] 2021-08-18 22:14:58 INFO  com.app.Main  - 3)Exit
+[main] 2021-08-18 22:14:58 INFO  com.app.Main  - enter ur choice
+[main] 2021-08-18 22:15:03 WARN  com.app.Main  - Invalid choice... Choice should be only number between 1-3 only 
+[main] 2021-08-18 22:15:03 INFO  com.app.Main  - ---------------------
+[main] 2021-08-18 22:15:03 INFO  com.app.Main  - 1)search product
+[main] 2021-08-18 22:15:03 INFO  com.app.Main  - 2)view orders
+[main] 2021-08-18 22:15:03 INFO  com.app.Main  - 3)Exit
+[main] 2021-08-18 22:15:03 INFO  com.app.Main  - enter ur choice
+[main] 2021-08-18 22:17:37 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-18 22:17:37 INFO  com.app.Main  - ------------------------------------
+[main] 2021-08-18 22:17:37 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-18 22:17:37 INFO  com.app.Main  - 1)Login As Employee
+[main] 2021-08-18 22:17:37 INFO  com.app.Main  - 2)Login As Customer
+[main] 2021-08-18 22:17:37 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-18 22:17:37 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-18 22:17:37 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:18:15 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-18 22:18:15 INFO  com.app.Main  - ------------------------------------
+[main] 2021-08-18 22:18:15 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-18 22:18:15 INFO  com.app.Main  - 1)Login As Employee
+[main] 2021-08-18 22:18:15 INFO  com.app.Main  - 2)Login As Customer
+[main] 2021-08-18 22:18:15 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-18 22:18:15 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-18 22:18:15 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:18:18 INFO  com.app.Main  - WELCOME TO CUSTOMER PAGE
+[main] 2021-08-18 22:18:18 INFO  com.app.Main  - **------------***-------------**
+[main] 2021-08-18 22:18:18 INFO  com.app.Main  - /n Enter your Email:
+[main] 2021-08-18 22:18:30 INFO  com.app.Main  - 
+ Enter your password:
+[main] 2021-08-18 22:18:39 INFO  com.app.Main  - 
+ customer login successfull 
+[main] 2021-08-18 22:18:39 INFO  com.app.Main  - 
+ Welcomemanisha
+[main] 2021-08-18 22:18:39 INFO  com.app.Main  - ---------------------
+[main] 2021-08-18 22:18:39 INFO  com.app.Main  - 1)search product
+[main] 2021-08-18 22:18:39 INFO  com.app.Main  - 2)view orders
+[main] 2021-08-18 22:18:39 INFO  com.app.Main  - 3)Exit
+[main] 2021-08-18 22:18:39 INFO  com.app.Main  - enter ur choice
+[main] 2021-08-18 22:18:41 WARN  com.app.Main  - Invalid choice... Choice should be only number between 1-3 only 
+[main] 2021-08-18 22:18:41 INFO  com.app.Main  - ---------------------
+[main] 2021-08-18 22:18:41 INFO  com.app.Main  - 1)search product
+[main] 2021-08-18 22:18:41 INFO  com.app.Main  - 2)view orders
+[main] 2021-08-18 22:18:41 INFO  com.app.Main  - 3)Exit
+[main] 2021-08-18 22:18:41 INFO  com.app.Main  - enter ur choice
+[main] 2021-08-18 22:20:50 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-18 22:20:50 INFO  com.app.Main  - ------------------------------------
+[main] 2021-08-18 22:20:50 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-18 22:20:50 INFO  com.app.Main  - 1)Login As Employee
+[main] 2021-08-18 22:20:50 INFO  com.app.Main  - 2)Login As Customer
+[main] 2021-08-18 22:20:50 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-18 22:20:50 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-18 22:20:50 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:21:11 INFO  com.app.Main  - WELCOME TO CUSTOMER PAGE
+[main] 2021-08-18 22:21:11 INFO  com.app.Main  - **------------***-------------**
+[main] 2021-08-18 22:21:11 INFO  com.app.Main  - /n Enter your Email:
+[main] 2021-08-18 22:21:27 WARN  com.app.Main  - Invalid choice... Choice should be only number between 1-3 only 
+[main] 2021-08-18 22:21:27 INFO  com.app.Main  - ---------------------
+[main] 2021-08-18 22:21:27 INFO  com.app.Main  - 1)search product
+[main] 2021-08-18 22:21:27 INFO  com.app.Main  - 2)view orders
+[main] 2021-08-18 22:21:27 INFO  com.app.Main  - 3)Exit
+[main] 2021-08-18 22:21:27 INFO  com.app.Main  - enter ur choice
+[main] 2021-08-18 22:25:07 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-18 22:25:07 INFO  com.app.Main  - ------------------------------------
+[main] 2021-08-18 22:25:07 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-18 22:25:07 INFO  com.app.Main  - 1)Login As Employee
+[main] 2021-08-18 22:25:07 INFO  com.app.Main  - 2)Login As Customer
+[main] 2021-08-18 22:25:07 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-18 22:25:07 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-18 22:25:07 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:25:15 INFO  com.app.Main  - WELCOME TO CUSTOMER PAGE
+[main] 2021-08-18 22:25:15 INFO  com.app.Main  - **------------***-------------**
+[main] 2021-08-18 22:25:15 INFO  com.app.Main  - /n Enter your Email:
+[main] 2021-08-18 22:25:25 INFO  com.app.Main  - 
+ Enter your password:
+[main] 2021-08-18 22:25:29 INFO  com.app.Main  - 
+ customer login successfull 
+[main] 2021-08-18 22:25:29 INFO  com.app.Main  - 
+ Welcomemanisha
+[main] 2021-08-18 22:25:29 INFO  com.app.Main  - ---------------------
+[main] 2021-08-18 22:25:29 INFO  com.app.Main  - 1)search product
+[main] 2021-08-18 22:25:29 INFO  com.app.Main  - 2)view orders
+[main] 2021-08-18 22:25:29 INFO  com.app.Main  - 3)Exit
+[main] 2021-08-18 22:25:29 INFO  com.app.Main  - enter ur choice
+[main] 2021-08-18 22:25:35 WARN  com.app.Main  - Invalid choice... Choice should be only number between 1-3 only 
+[main] 2021-08-18 22:25:35 INFO  com.app.Main  - ---------------------
+[main] 2021-08-18 22:25:35 INFO  com.app.Main  - 1)search product
+[main] 2021-08-18 22:25:35 INFO  com.app.Main  - 2)view orders
+[main] 2021-08-18 22:25:35 INFO  com.app.Main  - 3)Exit
+[main] 2021-08-18 22:25:35 INFO  com.app.Main  - enter ur choice
+[main] 2021-08-18 22:31:22 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-18 22:31:22 INFO  com.app.Main  - ------------------------------------
+[main] 2021-08-18 22:31:22 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-18 22:31:22 INFO  com.app.Main  - 1)Login As Employee
+[main] 2021-08-18 22:31:22 INFO  com.app.Main  - 2)Login As Customer
+[main] 2021-08-18 22:31:22 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-18 22:31:22 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-18 22:31:22 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:31:33 INFO  com.app.Main  - WELCOME TO CUSTOMER PAGE
+[main] 2021-08-18 22:31:33 INFO  com.app.Main  - **------------***-------------**
+[main] 2021-08-18 22:31:33 INFO  com.app.Main  - /n Enter your Email:
+[main] 2021-08-18 22:31:43 INFO  com.app.Main  - 
+ Enter your password:
+[main] 2021-08-18 22:31:48 INFO  com.app.Main  - 
+ customer login successfull 
+[main] 2021-08-18 22:31:48 INFO  com.app.Main  - 
+ Welcomemanisha
+[main] 2021-08-18 22:31:48 INFO  com.app.Main  - ---------------------
+[main] 2021-08-18 22:31:48 INFO  com.app.Main  - 1)search product
+[main] 2021-08-18 22:31:48 INFO  com.app.Main  - 2)view orders
+[main] 2021-08-18 22:31:48 INFO  com.app.Main  - 3)Exit
+[main] 2021-08-18 22:31:48 INFO  com.app.Main  - enter ur choice
+[main] 2021-08-18 22:31:52 INFO  com.app.Main  - Search Product Based on 
+[main] 2021-08-18 22:31:52 INFO  com.app.Main  - ----------------------
+[main] 2021-08-18 22:31:52 INFO  com.app.Main  - 1)By product_id
+[main] 2021-08-18 22:31:52 INFO  com.app.Main  - 2)By product_name 
+[main] 2021-08-18 22:31:52 INFO  com.app.Main  - 3)By price 
+[main] 2021-08-18 22:31:52 INFO  com.app.Main  - 4)By quantity 
+[main] 2021-08-18 22:31:52 INFO  com.app.Main  - 5)By rating 
+[main] 2021-08-18 22:31:52 INFO  com.app.Main  - 6)By category
+[main] 2021-08-18 22:31:52 INFO  com.app.Main  - 7)Previous menu
+[main] 2021-08-18 22:31:52 INFO  com.app.Main  - 8)Logout
+[main] 2021-08-18 22:31:52 INFO  com.app.Main  - 9)ViewCart
+[main] 2021-08-18 22:31:52 INFO  com.app.Main  - Enter ur choice
+[main] 2021-08-18 22:32:32 INFO  com.app.Main  - Enter prouct id to get product details
+[main] 2021-08-18 22:32:37 INFO  com.app.Main  - Product with id 2 found successfully... Below is the details
+[main] 2021-08-18 22:32:37 INFO  com.app.Main  - Product [product_id=2, product_name=DELL, price=50000.0, quantity=20.0, rating=4.5, category=laptop]
+[main] 2021-08-18 22:32:37 INFO  com.app.Main  - Search Product Based on 
+[main] 2021-08-18 22:32:37 INFO  com.app.Main  - ----------------------
+[main] 2021-08-18 22:32:37 INFO  com.app.Main  - 1)By product_id
+[main] 2021-08-18 22:32:37 INFO  com.app.Main  - 2)By product_name 
+[main] 2021-08-18 22:32:37 INFO  com.app.Main  - 3)By price 
+[main] 2021-08-18 22:32:37 INFO  com.app.Main  - 4)By quantity 
+[main] 2021-08-18 22:32:37 INFO  com.app.Main  - 5)By rating 
+[main] 2021-08-18 22:32:37 INFO  com.app.Main  - 6)By category
+[main] 2021-08-18 22:32:37 INFO  com.app.Main  - 7)Previous menu
+[main] 2021-08-18 22:32:37 INFO  com.app.Main  - 8)Logout
+[main] 2021-08-18 22:32:37 INFO  com.app.Main  - 9)ViewCart
+[main] 2021-08-18 22:32:37 INFO  com.app.Main  - Enter ur choice
+[main] 2021-08-18 22:32:44 INFO  com.app.Main  - Enter the name to get the Product details
+[main] 2021-08-18 22:32:56 INFO  com.app.Main  - Total there are 1 number of products with LG
+[main] 2021-08-18 22:32:56 INFO  com.app.Main  - Product [product_id=1, product_name=LG, price=20000.0, quantity=40.0, rating=4.5, category=television]
+[main] 2021-08-18 22:32:56 INFO  com.app.Main  - Search Product Based on 
+[main] 2021-08-18 22:32:56 INFO  com.app.Main  - ----------------------
+[main] 2021-08-18 22:32:56 INFO  com.app.Main  - 1)By product_id
+[main] 2021-08-18 22:32:56 INFO  com.app.Main  - 2)By product_name 
+[main] 2021-08-18 22:32:56 INFO  com.app.Main  - 3)By price 
+[main] 2021-08-18 22:32:56 INFO  com.app.Main  - 4)By quantity 
+[main] 2021-08-18 22:32:56 INFO  com.app.Main  - 5)By rating 
+[main] 2021-08-18 22:32:56 INFO  com.app.Main  - 6)By category
+[main] 2021-08-18 22:32:56 INFO  com.app.Main  - 7)Previous menu
+[main] 2021-08-18 22:32:56 INFO  com.app.Main  - 8)Logout
+[main] 2021-08-18 22:32:56 INFO  com.app.Main  - 9)ViewCart
+[main] 2021-08-18 22:32:56 INFO  com.app.Main  - Enter ur choice
+[main] 2021-08-18 22:33:07 WARN  com.app.Main  - Invalid choice ...choice should be only number between 1-9 only
+[main] 2021-08-18 22:33:07 INFO  com.app.Main  - Search Product Based on 
+[main] 2021-08-18 22:33:07 INFO  com.app.Main  - ----------------------
+[main] 2021-08-18 22:33:07 INFO  com.app.Main  - 1)By product_id
+[main] 2021-08-18 22:33:07 INFO  com.app.Main  - 2)By product_name 
+[main] 2021-08-18 22:33:07 INFO  com.app.Main  - 3)By price 
+[main] 2021-08-18 22:33:07 INFO  com.app.Main  - 4)By quantity 
+[main] 2021-08-18 22:33:07 INFO  com.app.Main  - 5)By rating 
+[main] 2021-08-18 22:33:07 INFO  com.app.Main  - 6)By category
+[main] 2021-08-18 22:33:07 INFO  com.app.Main  - 7)Previous menu
+[main] 2021-08-18 22:33:07 INFO  com.app.Main  - 8)Logout
+[main] 2021-08-18 22:33:07 INFO  com.app.Main  - 9)ViewCart
+[main] 2021-08-18 22:33:07 INFO  com.app.Main  - Enter ur choice
+[main] 2021-08-18 22:33:16 INFO  com.app.Main  - Enter the price to get the Product details
+[main] 2021-08-18 22:33:21 INFO  com.app.Main  - Total there are 1 number of products with 20000.0
+[main] 2021-08-18 22:33:21 INFO  com.app.Main  - Product [product_id=1, product_name=LG, price=20000.0, quantity=40.0, rating=4.5, category=television]
+[main] 2021-08-18 22:33:21 INFO  com.app.Main  - Search Product Based on 
+[main] 2021-08-18 22:33:21 INFO  com.app.Main  - ----------------------
+[main] 2021-08-18 22:33:21 INFO  com.app.Main  - 1)By product_id
+[main] 2021-08-18 22:33:21 INFO  com.app.Main  - 2)By product_name 
+[main] 2021-08-18 22:33:21 INFO  com.app.Main  - 3)By price 
+[main] 2021-08-18 22:33:21 INFO  com.app.Main  - 4)By quantity 
+[main] 2021-08-18 22:33:21 INFO  com.app.Main  - 5)By rating 
+[main] 2021-08-18 22:33:21 INFO  com.app.Main  - 6)By category
+[main] 2021-08-18 22:33:21 INFO  com.app.Main  - 7)Previous menu
+[main] 2021-08-18 22:33:21 INFO  com.app.Main  - 8)Logout
+[main] 2021-08-18 22:33:21 INFO  com.app.Main  - 9)ViewCart
+[main] 2021-08-18 22:33:21 INFO  com.app.Main  - Enter ur choice
+[main] 2021-08-18 22:33:28 INFO  com.app.Main  - Enter the quantity to get the Product details
+[main] 2021-08-18 22:33:35 INFO  com.app.Main  - Total there are 1 number of products with 40.0
+[main] 2021-08-18 22:33:35 INFO  com.app.Main  - Product [product_id=1, product_name=LG, price=20000.0, quantity=40.0, rating=4.5, category=television]
+[main] 2021-08-18 22:33:35 INFO  com.app.Main  - Search Product Based on 
+[main] 2021-08-18 22:33:35 INFO  com.app.Main  - ----------------------
+[main] 2021-08-18 22:33:35 INFO  com.app.Main  - 1)By product_id
+[main] 2021-08-18 22:33:35 INFO  com.app.Main  - 2)By product_name 
+[main] 2021-08-18 22:33:35 INFO  com.app.Main  - 3)By price 
+[main] 2021-08-18 22:33:35 INFO  com.app.Main  - 4)By quantity 
+[main] 2021-08-18 22:33:35 INFO  com.app.Main  - 5)By rating 
+[main] 2021-08-18 22:33:35 INFO  com.app.Main  - 6)By category
+[main] 2021-08-18 22:33:35 INFO  com.app.Main  - 7)Previous menu
+[main] 2021-08-18 22:33:35 INFO  com.app.Main  - 8)Logout
+[main] 2021-08-18 22:33:35 INFO  com.app.Main  - 9)ViewCart
+[main] 2021-08-18 22:33:35 INFO  com.app.Main  - Enter ur choice
+[main] 2021-08-18 22:33:43 INFO  com.app.Main  - Enter the rating to get the Product details
+[main] 2021-08-18 22:36:10 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-18 22:36:10 INFO  com.app.Main  - ------------------------------------
+[main] 2021-08-18 22:36:10 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-18 22:36:10 INFO  com.app.Main  - 1)Login As Employee
+[main] 2021-08-18 22:36:10 INFO  com.app.Main  - 2)Login As Customer
+[main] 2021-08-18 22:36:10 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-18 22:36:10 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-18 22:36:10 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:36:13 INFO  com.app.Main  - WELCOME TO CUSTOMER PAGE
+[main] 2021-08-18 22:36:13 INFO  com.app.Main  - **------------***-------------**
+[main] 2021-08-18 22:36:13 INFO  com.app.Main  - /n Enter your Email:
+[main] 2021-08-18 22:36:33 INFO  com.app.Main  - 
+ Enter your password:
+[main] 2021-08-18 22:36:38 INFO  com.app.Main  - 
+ customer login successfull 
+[main] 2021-08-18 22:36:38 INFO  com.app.Main  - 
+ Welcomemanisha
+[main] 2021-08-18 22:36:38 INFO  com.app.Main  - ---------------------
+[main] 2021-08-18 22:36:38 INFO  com.app.Main  - 1)search product
+[main] 2021-08-18 22:36:38 INFO  com.app.Main  - 2)view orders
+[main] 2021-08-18 22:36:38 INFO  com.app.Main  - 3)Exit
+[main] 2021-08-18 22:36:38 INFO  com.app.Main  - enter ur choice
+[main] 2021-08-18 22:36:42 INFO  com.app.Main  - Search Product Based on 
+[main] 2021-08-18 22:36:42 INFO  com.app.Main  - ----------------------
+[main] 2021-08-18 22:36:42 INFO  com.app.Main  - 1)By product_id
+[main] 2021-08-18 22:36:42 INFO  com.app.Main  - 2)By product_name 
+[main] 2021-08-18 22:36:42 INFO  com.app.Main  - 3)By price 
+[main] 2021-08-18 22:36:42 INFO  com.app.Main  - 4)By quantity 
+[main] 2021-08-18 22:36:42 INFO  com.app.Main  - 5)By rating 
+[main] 2021-08-18 22:36:42 INFO  com.app.Main  - 6)By category
+[main] 2021-08-18 22:36:42 INFO  com.app.Main  - 7)Previous menu
+[main] 2021-08-18 22:36:42 INFO  com.app.Main  - 8)Logout
+[main] 2021-08-18 22:36:42 INFO  com.app.Main  - 9)ViewCart
+[main] 2021-08-18 22:36:42 INFO  com.app.Main  - Enter ur choice
+[main] 2021-08-18 22:36:48 INFO  com.app.Main  - Enter the rating to get the Product details
+[main] 2021-08-18 22:36:52 INFO  com.app.Main  - Total there are 3 number of products with 4.5
+[main] 2021-08-18 22:36:52 INFO  com.app.Main  - Product [product_id=1, product_name=LG, price=20000.0, quantity=40.0, rating=4.5, category=television]
+[main] 2021-08-18 22:36:52 INFO  com.app.Main  - Product [product_id=2, product_name=DELL, price=50000.0, quantity=20.0, rating=4.5, category=laptop]
+[main] 2021-08-18 22:36:52 INFO  com.app.Main  - Product [product_id=4, product_name=Milk, price=20.0, quantity=20.0, rating=4.5, category=grocery]
+[main] 2021-08-18 22:36:52 INFO  com.app.Main  - Search Product Based on 
+[main] 2021-08-18 22:36:52 INFO  com.app.Main  - ----------------------
+[main] 2021-08-18 22:36:52 INFO  com.app.Main  - 1)By product_id
+[main] 2021-08-18 22:36:52 INFO  com.app.Main  - 2)By product_name 
+[main] 2021-08-18 22:36:52 INFO  com.app.Main  - 3)By price 
+[main] 2021-08-18 22:36:52 INFO  com.app.Main  - 4)By quantity 
+[main] 2021-08-18 22:36:52 INFO  com.app.Main  - 5)By rating 
+[main] 2021-08-18 22:36:52 INFO  com.app.Main  - 6)By category
+[main] 2021-08-18 22:36:52 INFO  com.app.Main  - 7)Previous menu
+[main] 2021-08-18 22:36:52 INFO  com.app.Main  - 8)Logout
+[main] 2021-08-18 22:36:52 INFO  com.app.Main  - 9)ViewCart
+[main] 2021-08-18 22:36:52 INFO  com.app.Main  - Enter ur choice
+[main] 2021-08-18 22:37:14 INFO  com.app.Main  - Enter the category to get the Product details
+[main] 2021-08-18 22:37:27 INFO  com.app.Main  - Total there are 1 number of products with clothing
+[main] 2021-08-18 22:37:27 INFO  com.app.Main  - Product [product_id=3, product_name=Jeans, price=15000.0, quantity=20.0, rating=5.0, category=clothing]
+[main] 2021-08-18 22:37:27 INFO  com.app.Main  - Search Product Based on 
+[main] 2021-08-18 22:37:27 INFO  com.app.Main  - ----------------------
+[main] 2021-08-18 22:37:27 INFO  com.app.Main  - 1)By product_id
+[main] 2021-08-18 22:37:27 INFO  com.app.Main  - 2)By product_name 
+[main] 2021-08-18 22:37:27 INFO  com.app.Main  - 3)By price 
+[main] 2021-08-18 22:37:27 INFO  com.app.Main  - 4)By quantity 
+[main] 2021-08-18 22:37:27 INFO  com.app.Main  - 5)By rating 
+[main] 2021-08-18 22:37:27 INFO  com.app.Main  - 6)By category
+[main] 2021-08-18 22:37:27 INFO  com.app.Main  - 7)Previous menu
+[main] 2021-08-18 22:37:27 INFO  com.app.Main  - 8)Logout
+[main] 2021-08-18 22:37:27 INFO  com.app.Main  - 9)ViewCart
+[main] 2021-08-18 22:37:27 INFO  com.app.Main  - Enter ur choice
+[main] 2021-08-18 22:37:38 INFO  com.app.Main  - 
+
+GO BACK TO MAIN MENU......
+
+
+[main] 2021-08-18 22:37:38 INFO  com.app.Main  - Search Product Based on 
+[main] 2021-08-18 22:37:38 INFO  com.app.Main  - ----------------------
+[main] 2021-08-18 22:37:38 INFO  com.app.Main  - 1)By product_id
+[main] 2021-08-18 22:37:38 INFO  com.app.Main  - 2)By product_name 
+[main] 2021-08-18 22:37:38 INFO  com.app.Main  - 3)By price 
+[main] 2021-08-18 22:37:38 INFO  com.app.Main  - 4)By quantity 
+[main] 2021-08-18 22:37:38 INFO  com.app.Main  - 5)By rating 
+[main] 2021-08-18 22:37:38 INFO  com.app.Main  - 6)By category
+[main] 2021-08-18 22:37:38 INFO  com.app.Main  - 7)Previous menu
+[main] 2021-08-18 22:37:38 INFO  com.app.Main  - 8)Logout
+[main] 2021-08-18 22:37:38 INFO  com.app.Main  - 9)ViewCart
+[main] 2021-08-18 22:37:38 INFO  com.app.Main  - Enter ur choice
+[main] 2021-08-18 22:38:30 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-18 22:38:30 INFO  com.app.Main  - ------------------------------------
+[main] 2021-08-18 22:38:30 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-18 22:38:30 INFO  com.app.Main  - 1)Login As Employee
+[main] 2021-08-18 22:38:30 INFO  com.app.Main  - 2)Login As Customer
+[main] 2021-08-18 22:38:30 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-18 22:38:30 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-18 22:38:30 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:38:33 INFO  com.app.Main  - WELCOME TO CUSTOMER PAGE
+[main] 2021-08-18 22:38:33 INFO  com.app.Main  - **------------***-------------**
+[main] 2021-08-18 22:38:33 INFO  com.app.Main  - /n Enter your Email:
+[main] 2021-08-18 22:38:48 INFO  com.app.Main  - 
+ Enter your password:
+[main] 2021-08-18 22:38:53 INFO  com.app.Main  - 
+ customer login successfull 
+[main] 2021-08-18 22:38:53 INFO  com.app.Main  - 
+ Welcomemanisha
+[main] 2021-08-18 22:38:53 INFO  com.app.Main  - ---------------------
+[main] 2021-08-18 22:38:53 INFO  com.app.Main  - 1)search product
+[main] 2021-08-18 22:38:53 INFO  com.app.Main  - 2)view orders
+[main] 2021-08-18 22:38:53 INFO  com.app.Main  - 3)Exit
+[main] 2021-08-18 22:38:53 INFO  com.app.Main  - enter ur choice
+[main] 2021-08-18 22:38:57 INFO  com.app.Main  - Search Product Based on 
+[main] 2021-08-18 22:38:57 INFO  com.app.Main  - ----------------------
+[main] 2021-08-18 22:38:57 INFO  com.app.Main  - 1)By product_id
+[main] 2021-08-18 22:38:57 INFO  com.app.Main  - 2)By product_name 
+[main] 2021-08-18 22:38:57 INFO  com.app.Main  - 3)By price 
+[main] 2021-08-18 22:38:57 INFO  com.app.Main  - 4)By quantity 
+[main] 2021-08-18 22:38:57 INFO  com.app.Main  - 5)By rating 
+[main] 2021-08-18 22:38:57 INFO  com.app.Main  - 6)By category
+[main] 2021-08-18 22:38:57 INFO  com.app.Main  - 7)Previous menu
+[main] 2021-08-18 22:38:57 INFO  com.app.Main  - 8)Logout
+[main] 2021-08-18 22:38:57 INFO  com.app.Main  - 9)ViewCart
+[main] 2021-08-18 22:38:57 INFO  com.app.Main  - Enter ur choice
+[main] 2021-08-18 22:38:59 INFO  com.app.Main  - 
+
+GO BACK TO MAIN MENU......
+
+
+[main] 2021-08-18 22:38:59 WARN  com.app.Main  - Invalid choice
+[main] 2021-08-18 22:38:59 INFO  com.app.Main  - Search Product Based on 
+[main] 2021-08-18 22:38:59 INFO  com.app.Main  - ----------------------
+[main] 2021-08-18 22:38:59 INFO  com.app.Main  - 1)By product_id
+[main] 2021-08-18 22:38:59 INFO  com.app.Main  - 2)By product_name 
+[main] 2021-08-18 22:38:59 INFO  com.app.Main  - 3)By price 
+[main] 2021-08-18 22:38:59 INFO  com.app.Main  - 4)By quantity 
+[main] 2021-08-18 22:38:59 INFO  com.app.Main  - 5)By rating 
+[main] 2021-08-18 22:38:59 INFO  com.app.Main  - 6)By category
+[main] 2021-08-18 22:38:59 INFO  com.app.Main  - 7)Previous menu
+[main] 2021-08-18 22:38:59 INFO  com.app.Main  - 8)Logout
+[main] 2021-08-18 22:38:59 INFO  com.app.Main  - 9)ViewCart
+[main] 2021-08-18 22:38:59 INFO  com.app.Main  - Enter ur choice
+[main] 2021-08-18 22:39:41 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-18 22:39:41 INFO  com.app.Main  - ------------------------------------
+[main] 2021-08-18 22:39:41 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-18 22:39:41 INFO  com.app.Main  - 1)Login As Employee
+[main] 2021-08-18 22:39:41 INFO  com.app.Main  - 2)Login As Customer
+[main] 2021-08-18 22:39:41 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-18 22:39:41 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-18 22:39:41 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:39:46 INFO  com.app.Main  - WELCOME TO CUSTOMER PAGE
+[main] 2021-08-18 22:39:46 INFO  com.app.Main  - **------------***-------------**
+[main] 2021-08-18 22:39:46 INFO  com.app.Main  - /n Enter your Email:
+[main] 2021-08-18 22:39:55 INFO  com.app.Main  - 
+ Enter your password:
+[main] 2021-08-18 22:39:59 INFO  com.app.Main  - 
+ customer login successfull 
+[main] 2021-08-18 22:39:59 INFO  com.app.Main  - 
+ Welcomemanisha
+[main] 2021-08-18 22:39:59 INFO  com.app.Main  - ---------------------
+[main] 2021-08-18 22:39:59 INFO  com.app.Main  - 1)search product
+[main] 2021-08-18 22:39:59 INFO  com.app.Main  - 2)view orders
+[main] 2021-08-18 22:39:59 INFO  com.app.Main  - 3)Exit
+[main] 2021-08-18 22:39:59 INFO  com.app.Main  - enter ur choice
+[main] 2021-08-18 22:40:01 INFO  com.app.Main  - Search Product Based on 
+[main] 2021-08-18 22:40:01 INFO  com.app.Main  - ----------------------
+[main] 2021-08-18 22:40:01 INFO  com.app.Main  - 1)By product_id
+[main] 2021-08-18 22:40:01 INFO  com.app.Main  - 2)By product_name 
+[main] 2021-08-18 22:40:01 INFO  com.app.Main  - 3)By price 
+[main] 2021-08-18 22:40:01 INFO  com.app.Main  - 4)By quantity 
+[main] 2021-08-18 22:40:01 INFO  com.app.Main  - 5)By rating 
+[main] 2021-08-18 22:40:01 INFO  com.app.Main  - 6)By category
+[main] 2021-08-18 22:40:01 INFO  com.app.Main  - 7)Previous menu
+[main] 2021-08-18 22:40:01 INFO  com.app.Main  - 8)Logout
+[main] 2021-08-18 22:40:01 INFO  com.app.Main  - 9)ViewCart
+[main] 2021-08-18 22:40:01 INFO  com.app.Main  - Enter ur choice
+[main] 2021-08-18 22:40:03 WARN  com.app.Main  - 
+
+GO BACK TO MAIN MENU......
+
+
+[main] 2021-08-18 22:40:03 INFO  com.app.Main  - Search Product Based on 
+[main] 2021-08-18 22:40:03 INFO  com.app.Main  - ----------------------
+[main] 2021-08-18 22:40:03 INFO  com.app.Main  - 1)By product_id
+[main] 2021-08-18 22:40:03 INFO  com.app.Main  - 2)By product_name 
+[main] 2021-08-18 22:40:03 INFO  com.app.Main  - 3)By price 
+[main] 2021-08-18 22:40:03 INFO  com.app.Main  - 4)By quantity 
+[main] 2021-08-18 22:40:03 INFO  com.app.Main  - 5)By rating 
+[main] 2021-08-18 22:40:03 INFO  com.app.Main  - 6)By category
+[main] 2021-08-18 22:40:03 INFO  com.app.Main  - 7)Previous menu
+[main] 2021-08-18 22:40:03 INFO  com.app.Main  - 8)Logout
+[main] 2021-08-18 22:40:03 INFO  com.app.Main  - 9)ViewCart
+[main] 2021-08-18 22:40:03 INFO  com.app.Main  - Enter ur choice
+[main] 2021-08-18 22:56:26 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-18 22:56:26 INFO  com.app.Main  - ------------------------------------
+[main] 2021-08-18 22:56:26 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-18 22:56:26 INFO  com.app.Main  - 1)Login As Employee
+[main] 2021-08-18 22:56:26 INFO  com.app.Main  - 2)Login As Customer
+[main] 2021-08-18 22:56:26 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-18 22:56:26 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-18 22:56:26 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:56:31 INFO  com.app.Main  - WELCOME TO CUSTOMER PAGE
+[main] 2021-08-18 22:56:31 INFO  com.app.Main  - **------------***-------------**
+[main] 2021-08-18 22:56:31 INFO  com.app.Main  - /n Enter your Email:
+[main] 2021-08-18 22:57:52 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-18 22:57:52 INFO  com.app.Main  - ------------------------------------
+[main] 2021-08-18 22:57:52 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-18 22:57:52 INFO  com.app.Main  - 1)Login As Employee
+[main] 2021-08-18 22:57:52 INFO  com.app.Main  - 2)Login As Customer
+[main] 2021-08-18 22:57:52 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-18 22:57:52 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-18 22:57:52 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 22:57:55 INFO  com.app.Main  - WELCOME TO CUSTOMER PAGE
+[main] 2021-08-18 22:57:55 INFO  com.app.Main  - **------------***-------------**
+[main] 2021-08-18 22:57:55 INFO  com.app.Main  - 
+ Enter your Email:
+[main] 2021-08-18 22:58:08 INFO  com.app.Main  - 
+ Enter your password:
+[main] 2021-08-18 22:58:13 INFO  com.app.Main  - 
+ customer login successfull 
+[main] 2021-08-18 22:58:13 INFO  com.app.Main  - 
+ Welcome  manisha
+[main] 2021-08-18 22:58:13 INFO  com.app.Main  - ---------------------
+[main] 2021-08-18 22:58:13 INFO  com.app.Main  - 1)search product
+[main] 2021-08-18 22:58:13 INFO  com.app.Main  - 2)view orders
+[main] 2021-08-18 22:58:13 INFO  com.app.Main  - 3)Exit
+[main] 2021-08-18 22:58:13 INFO  com.app.Main  - enter ur choice
+[main] 2021-08-18 22:58:17 INFO  com.app.Main  - Search Product Based on 
+[main] 2021-08-18 22:58:17 INFO  com.app.Main  - ----------------------
+[main] 2021-08-18 22:58:17 INFO  com.app.Main  - 1)By product_id
+[main] 2021-08-18 22:58:17 INFO  com.app.Main  - 2)By product_name 
+[main] 2021-08-18 22:58:17 INFO  com.app.Main  - 3)By price 
+[main] 2021-08-18 22:58:17 INFO  com.app.Main  - 4)By quantity 
+[main] 2021-08-18 22:58:17 INFO  com.app.Main  - 5)By rating 
+[main] 2021-08-18 22:58:17 INFO  com.app.Main  - 6)By category
+[main] 2021-08-18 22:58:17 INFO  com.app.Main  - 7)Previous menu
+[main] 2021-08-18 22:58:17 INFO  com.app.Main  - 8)Logout
+[main] 2021-08-18 22:58:17 INFO  com.app.Main  - 9)ViewCart
+[main] 2021-08-18 22:58:17 INFO  com.app.Main  - Enter ur choice
+[main] 2021-08-18 22:58:21 INFO  com.app.Main  - 
+
+GO BACK TO MAIN MENU......
+
+
+[main] 2021-08-18 22:58:21 INFO  com.app.Main  - Search Product Based on 
+[main] 2021-08-18 22:58:21 INFO  com.app.Main  - ----------------------
+[main] 2021-08-18 22:58:21 INFO  com.app.Main  - 1)By product_id
+[main] 2021-08-18 22:58:21 INFO  com.app.Main  - 2)By product_name 
+[main] 2021-08-18 22:58:21 INFO  com.app.Main  - 3)By price 
+[main] 2021-08-18 22:58:21 INFO  com.app.Main  - 4)By quantity 
+[main] 2021-08-18 22:58:21 INFO  com.app.Main  - 5)By rating 
+[main] 2021-08-18 22:58:21 INFO  com.app.Main  - 6)By category
+[main] 2021-08-18 22:58:21 INFO  com.app.Main  - 7)Previous menu
+[main] 2021-08-18 22:58:21 INFO  com.app.Main  - 8)Logout
+[main] 2021-08-18 22:58:21 INFO  com.app.Main  - 9)ViewCart
+[main] 2021-08-18 22:58:21 INFO  com.app.Main  - Enter ur choice
+[main] 2021-08-18 23:01:30 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-18 23:01:30 INFO  com.app.Main  - ------------------------------------
+[main] 2021-08-18 23:01:30 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-18 23:01:30 INFO  com.app.Main  - 1)Login As Employee
+[main] 2021-08-18 23:01:30 INFO  com.app.Main  - 2)Login As Customer
+[main] 2021-08-18 23:01:30 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-18 23:01:30 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-18 23:01:30 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 23:01:36 INFO  com.app.Main  - WELCOME TO CUSTOMER PAGE
+[main] 2021-08-18 23:01:36 INFO  com.app.Main  - **------------***-------------**
+[main] 2021-08-18 23:01:36 INFO  com.app.Main  - 
+ Enter your Email:
+[main] 2021-08-18 23:01:46 INFO  com.app.Main  - 
+ Enter your password:
+[main] 2021-08-18 23:01:50 INFO  com.app.Main  - 
+ customer login successfull 
+[main] 2021-08-18 23:01:50 INFO  com.app.Main  - 
+ Welcome  manisha
+[main] 2021-08-18 23:01:50 INFO  com.app.Main  - ---------------------
+[main] 2021-08-18 23:01:50 INFO  com.app.Main  - 1)search product
+[main] 2021-08-18 23:01:50 INFO  com.app.Main  - 2)view orders
+[main] 2021-08-18 23:01:50 INFO  com.app.Main  - 3)Exit
+[main] 2021-08-18 23:01:50 INFO  com.app.Main  - enter ur choice
+[main] 2021-08-18 23:01:52 INFO  com.app.Main  - Search Product Based on 
+[main] 2021-08-18 23:01:52 INFO  com.app.Main  - ----------------------
+[main] 2021-08-18 23:01:52 INFO  com.app.Main  - 1)By product_id
+[main] 2021-08-18 23:01:52 INFO  com.app.Main  - 2)By product_name 
+[main] 2021-08-18 23:01:52 INFO  com.app.Main  - 3)By price 
+[main] 2021-08-18 23:01:52 INFO  com.app.Main  - 4)By quantity 
+[main] 2021-08-18 23:01:52 INFO  com.app.Main  - 5)By rating 
+[main] 2021-08-18 23:01:52 INFO  com.app.Main  - 6)By category
+[main] 2021-08-18 23:01:52 INFO  com.app.Main  - 7)Previous menu
+[main] 2021-08-18 23:01:52 INFO  com.app.Main  - 8)Logout
+[main] 2021-08-18 23:01:52 INFO  com.app.Main  - 9)ViewCart
+[main] 2021-08-18 23:01:52 INFO  com.app.Main  - Enter ur choice
+[main] 2021-08-18 23:01:53 INFO  com.app.Main  - 
+
+GO BACK TO MAIN MENU......
+
+
+[main] 2021-08-18 23:04:43 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-18 23:04:43 INFO  com.app.Main  - ------------------------------------
+[main] 2021-08-18 23:04:43 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-18 23:04:43 INFO  com.app.Main  - 1)Login As Employee
+[main] 2021-08-18 23:04:43 INFO  com.app.Main  - 2)Login As Customer
+[main] 2021-08-18 23:04:43 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-18 23:04:43 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-18 23:04:43 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 23:04:47 INFO  com.app.Main  - WELCOME TO CUSTOMER PAGE
+[main] 2021-08-18 23:04:47 INFO  com.app.Main  - **------------***-------------**
+[main] 2021-08-18 23:04:47 INFO  com.app.Main  - 
+ Enter your Email:
+[main] 2021-08-18 23:04:57 INFO  com.app.Main  - 
+ Enter your password:
+[main] 2021-08-18 23:05:00 INFO  com.app.Main  - 
+ Welcome  manisha
+[main] 2021-08-18 23:05:00 INFO  com.app.Main  - ---------------------
+[main] 2021-08-18 23:05:00 INFO  com.app.Main  - 1)search product
+[main] 2021-08-18 23:05:00 INFO  com.app.Main  - 2)view orders
+[main] 2021-08-18 23:05:00 INFO  com.app.Main  - 3)Exit
+[main] 2021-08-18 23:05:00 INFO  com.app.Main  - enter ur choice
+[main] 2021-08-18 23:05:02 INFO  com.app.Main  - Search Product Based on 
+[main] 2021-08-18 23:05:02 INFO  com.app.Main  - ----------------------
+[main] 2021-08-18 23:05:02 INFO  com.app.Main  - 1)By product_id
+[main] 2021-08-18 23:05:02 INFO  com.app.Main  - 2)By product_name 
+[main] 2021-08-18 23:05:02 INFO  com.app.Main  - 3)By price 
+[main] 2021-08-18 23:05:02 INFO  com.app.Main  - 4)By quantity 
+[main] 2021-08-18 23:05:02 INFO  com.app.Main  - 5)By rating 
+[main] 2021-08-18 23:05:02 INFO  com.app.Main  - 6)By category
+[main] 2021-08-18 23:05:02 INFO  com.app.Main  - 7)Previous menu
+[main] 2021-08-18 23:05:02 INFO  com.app.Main  - 8)Logout
+[main] 2021-08-18 23:05:02 INFO  com.app.Main  - 9)ViewCart
+[main] 2021-08-18 23:05:02 INFO  com.app.Main  - Enter ur choice
+[main] 2021-08-18 23:05:05 INFO  com.app.Main  - 
+
+GO BACK TO MAIN MENU......
+
+
