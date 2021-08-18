@@ -1,0 +1,198 @@
+[main] 2021-08-17 09:53:00 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-17 09:53:00 INFO  com.app.Main  - ==========================================
+[main] 2021-08-17 09:53:00 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-17 09:53:00 INFO  com.app.Main  - 1)Login As Customer
+[main] 2021-08-17 09:53:00 INFO  com.app.Main  - 2)Login As Employee
+[main] 2021-08-17 09:53:00 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-17 09:53:00 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-17 09:53:00 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 09:53:13 INFO  com.app.Main  - Under Construction
+[main] 2021-08-17 09:53:13 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-17 09:53:13 INFO  com.app.Main  - 1)Login As Customer
+[main] 2021-08-17 09:53:13 INFO  com.app.Main  - 2)Login As Employee
+[main] 2021-08-17 09:53:13 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-17 09:53:13 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-17 09:53:13 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 09:53:16 INFO  com.app.Main  - Under Construction
+[main] 2021-08-17 09:53:16 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-17 09:53:16 INFO  com.app.Main  - 1)Login As Customer
+[main] 2021-08-17 09:53:16 INFO  com.app.Main  - 2)Login As Employee
+[main] 2021-08-17 09:53:16 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-17 09:53:16 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-17 09:53:16 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 09:53:18 INFO  com.app.Main  - Under Construction
+[main] 2021-08-17 09:53:18 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-17 09:53:18 INFO  com.app.Main  - 1)Login As Customer
+[main] 2021-08-17 09:53:18 INFO  com.app.Main  - 2)Login As Employee
+[main] 2021-08-17 09:53:18 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-17 09:53:18 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-17 09:53:18 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 09:53:21 WARN  com.app.Main  - Invalid choice... Choice should be only number between 1-4 only 
+[main] 2021-08-17 09:54:12 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-17 09:54:12 INFO  com.app.Main  - ==========================================
+[main] 2021-08-17 09:54:12 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-17 09:54:12 INFO  com.app.Main  - 1)Login As Customer
+[main] 2021-08-17 09:54:12 INFO  com.app.Main  - 2)Login As Employee
+[main] 2021-08-17 09:54:12 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-17 09:54:12 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-17 09:54:12 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 09:54:15 INFO  com.app.Main  - Under Construction
+[main] 2021-08-17 09:54:15 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-17 09:54:15 INFO  com.app.Main  - 1)Login As Customer
+[main] 2021-08-17 09:54:15 INFO  com.app.Main  - 2)Login As Employee
+[main] 2021-08-17 09:54:15 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-17 09:54:15 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-17 09:54:15 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 09:54:18 INFO  com.app.Main  - Under Construction
+[main] 2021-08-17 09:54:18 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-17 09:54:18 INFO  com.app.Main  - 1)Login As Customer
+[main] 2021-08-17 09:54:18 INFO  com.app.Main  - 2)Login As Employee
+[main] 2021-08-17 09:54:18 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-17 09:54:18 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-17 09:54:18 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 09:54:20 INFO  com.app.Main  - Under Construction
+[main] 2021-08-17 09:54:20 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-17 09:54:20 INFO  com.app.Main  - 1)Login As Customer
+[main] 2021-08-17 09:54:20 INFO  com.app.Main  - 2)Login As Employee
+[main] 2021-08-17 09:54:20 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-17 09:54:20 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-17 09:54:20 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 09:54:23 INFO  com.app.Main  - Thanks for using this APP we will see you soon :) 
+[main] 2021-08-17 10:02:45 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-17 10:02:45 INFO  com.app.Main  - ==========================================
+[main] 2021-08-17 10:02:45 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-17 10:02:45 INFO  com.app.Main  - 1)Login As Customer
+[main] 2021-08-17 10:02:45 INFO  com.app.Main  - 2)Login As Employee
+[main] 2021-08-17 10:02:45 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-17 10:02:45 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-17 10:02:45 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 10:02:53 INFO  com.app.Main  - WELCOME TO CUSTOMER LOGIN PAGE
+[main] 2021-08-17 10:02:53 INFO  com.app.Main  - **-------------***-------------**
+[main] 2021-08-17 10:02:53 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-17 10:02:53 INFO  com.app.Main  - 1)Login As Customer
+[main] 2021-08-17 10:02:53 INFO  com.app.Main  - 2)Login As Employee
+[main] 2021-08-17 10:02:53 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-17 10:02:53 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-17 10:02:53 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 10:02:59 INFO  com.app.Main  - WELCOME TO CUSTOMER LOGIN PAGE
+[main] 2021-08-17 10:02:59 INFO  com.app.Main  - **-------------***-------------**
+[main] 2021-08-17 10:02:59 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-17 10:02:59 INFO  com.app.Main  - 1)Login As Customer
+[main] 2021-08-17 10:02:59 INFO  com.app.Main  - 2)Login As Employee
+[main] 2021-08-17 10:02:59 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-17 10:02:59 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-17 10:02:59 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 10:03:32 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-17 10:03:32 INFO  com.app.Main  - ------------------------------------
+[main] 2021-08-17 10:03:32 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-17 10:03:32 INFO  com.app.Main  - 1)Login As Customer
+[main] 2021-08-17 10:03:32 INFO  com.app.Main  - 2)Login As Employee
+[main] 2021-08-17 10:03:32 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-17 10:03:32 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-17 10:03:32 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 10:03:38 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-17 10:03:38 INFO  com.app.Main  - ------------------------------------
+[main] 2021-08-17 10:03:38 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-17 10:03:38 INFO  com.app.Main  - 1)Login As Customer
+[main] 2021-08-17 10:03:38 INFO  com.app.Main  - 2)Login As Employee
+[main] 2021-08-17 10:03:38 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-17 10:03:38 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-17 10:03:38 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 10:03:46 INFO  com.app.Main  - WELCOME TO CUSTOMER LOGIN PAGE
+[main] 2021-08-17 10:03:46 INFO  com.app.Main  - **------------***-------------**
+[main] 2021-08-17 10:03:46 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-17 10:03:46 INFO  com.app.Main  - 1)Login As Customer
+[main] 2021-08-17 10:03:46 INFO  com.app.Main  - 2)Login As Employee
+[main] 2021-08-17 10:03:46 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-17 10:03:46 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-17 10:03:46 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 10:11:36 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-17 10:11:36 INFO  com.app.Main  - ------------------------------------
+[main] 2021-08-17 10:11:36 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-17 10:11:36 INFO  com.app.Main  - 1)Login As Customer
+[main] 2021-08-17 10:11:36 INFO  com.app.Main  - 2)Login As Employee
+[main] 2021-08-17 10:11:36 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-17 10:11:36 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-17 10:11:36 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 10:36:54 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-17 10:36:54 INFO  com.app.Main  - ------------------------------------
+[main] 2021-08-17 10:36:54 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-17 10:36:54 INFO  com.app.Main  - 1)Login As Customer
+[main] 2021-08-17 10:36:54 INFO  com.app.Main  - 2)Login As Employee
+[main] 2021-08-17 10:36:54 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-17 10:36:54 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-17 10:36:54 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 10:36:58 INFO  com.app.Main  - WELCOME TO EMPLOYEE LOGIN PAGE
+[main] 2021-08-17 10:36:58 INFO  com.app.Main  - **------------***-------------**
+[main] 2021-08-17 10:36:58 INFO  com.app.Main  - 
+Enter your UserName/Email :
+[main] 2021-08-17 10:37:36 INFO  com.app.Main  - 
+Enter your password :
+[main] 2021-08-17 10:37:42 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-17 10:37:42 INFO  com.app.Main  - 1)Login As Customer
+[main] 2021-08-17 10:37:42 INFO  com.app.Main  - 2)Login As Employee
+[main] 2021-08-17 10:37:42 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-17 10:37:42 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-17 10:37:42 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-17 10:41:43 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-17 10:41:43 INFO  com.app.Main  - ------------------------------------
+[main] 2021-08-17 10:41:43 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-17 10:41:43 INFO  com.app.Main  - 1)Login As Employee
+[main] 2021-08-17 10:41:43 INFO  com.app.Main  - 2)Login As Customer
+[main] 2021-08-17 10:41:43 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-17 10:41:43 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-17 10:41:43 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 13:11:08 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-18 13:11:08 INFO  com.app.Main  - ------------------------------------
+[main] 2021-08-18 13:11:08 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-18 13:11:08 INFO  com.app.Main  - 1)Login As Employee
+[main] 2021-08-18 13:11:08 INFO  com.app.Main  - 2)Login As Customer
+[main] 2021-08-18 13:11:08 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-18 13:11:08 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-18 13:11:08 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 13:11:29 INFO  com.app.Main  - WELCOME TO CUSTOMER PAGE
+[main] 2021-08-18 13:11:29 INFO  com.app.Main  - **------------***-------------**
+[main] 2021-08-18 13:11:29 INFO  com.app.Main  - /n Enter your Email:
+[main] 2021-08-18 13:11:44 ERROR com.app.dao.LoginValidation  - java.sql.SQLSyntaxErrorException: Table 'manisha.customers' doesn't exist
+[main] 2021-08-18 13:12:48 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-18 13:12:48 INFO  com.app.Main  - ------------------------------------
+[main] 2021-08-18 13:12:48 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-18 13:12:48 INFO  com.app.Main  - 1)Login As Employee
+[main] 2021-08-18 13:12:48 INFO  com.app.Main  - 2)Login As Customer
+[main] 2021-08-18 13:12:48 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-18 13:12:48 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-18 13:12:48 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-18 13:12:52 INFO  com.app.Main  - WELCOME TO CUSTOMER PAGE
+[main] 2021-08-18 13:12:52 INFO  com.app.Main  - **------------***-------------**
+[main] 2021-08-18 13:12:52 INFO  com.app.Main  - /n Enter your Email:
+[main] 2021-08-18 13:13:11 INFO  com.app.Main  - 
+ Enter your password:
+[main] 2021-08-18 13:13:18 INFO  com.app.Main  - 
+ customer login successfull 
+[main] 2021-08-18 13:13:18 INFO  com.app.Main  - 
+ Welcomemanisha
+[main] 2021-08-18 13:13:18 INFO  com.app.Main  - ---------------------
+[main] 2021-08-18 13:13:18 INFO  com.app.Main  - 1)view product
+[main] 2021-08-18 13:13:18 INFO  com.app.Main  - 2)view orders
+[main] 2021-08-18 13:13:18 INFO  com.app.Main  - 3)Exit
+[main] 2021-08-18 13:13:18 INFO  com.app.Main  - enter ur choice
