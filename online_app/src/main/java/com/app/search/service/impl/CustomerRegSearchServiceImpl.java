@@ -60,7 +60,7 @@ public class CustomerRegSearchServiceImpl implements CustomerRegSearchService {
 	@Override
 	public List<Customer> getCustomerByEmail(String email) throws BusinessException {
 		List<Customer> customerList=null;
-		if(email.matches("[a-zA-Z]{2,10}")) {
+		if(email.matches("[a-zA-Z0-9'@'a-zA-Z.com]{2,20}")) {
 			//code here to DAO
 			customerList=customerRegDAO.getCustomerByPassword(email);
 		}else {
@@ -73,7 +73,7 @@ public class CustomerRegSearchServiceImpl implements CustomerRegSearchService {
 	@Override
 	public List<Customer> getCustomerByPassword(String password) throws BusinessException {
 		List<Customer> customerList=null;
-		if(password.matches("[a-zA-Z]{2,10}")) {
+		if(password.matches("[a-zA-Z0-9]{2,10}")) {
 			//code here to DAO
 			customerList=customerRegDAO.getCustomerByPassword(password);
 		}else {

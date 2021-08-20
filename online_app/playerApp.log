@@ -3161,3 +3161,21 @@ Enter your password :
 [main] 2021-08-20 12:45:58 INFO  com.app.Main  - Display orders
 [main] 2021-08-20 12:45:58 INFO  com.app.Main  - place order
 [main] 2021-08-20 12:45:58 INFO  com.app.Main  - Exit
+[main] 2021-08-20 13:18:06 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-20 13:18:06 INFO  com.app.Main  - ------------------------------------
+[main] 2021-08-20 13:18:06 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-20 13:18:06 INFO  com.app.Main  - 1)Login As Employee
+[main] 2021-08-20 13:18:06 INFO  com.app.Main  - 2)Login As Customer
+[main] 2021-08-20 13:18:06 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-20 13:18:06 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-20 13:18:06 INFO  com.app.Main  - Please enter your choice(1-4)
+[main] 2021-08-20 13:18:33 INFO  com.app.Main  - Welcome to Console Based Online App
+[main] 2021-08-20 13:18:33 INFO  com.app.Main  - ------------------------------------
+[main] 2021-08-20 13:18:33 INFO  com.app.Main  - 
+ Main Menu
+[main] 2021-08-20 13:18:33 INFO  com.app.Main  - 1)Login As Employee
+[main] 2021-08-20 13:18:33 INFO  com.app.Main  - 2)Login As Customer
+[main] 2021-08-20 13:18:33 INFO  com.app.Main  - 3)Register Customer
+[main] 2021-08-20 13:18:33 INFO  com.app.Main  - 4)EXIT
+[main] 2021-08-20 13:18:33 INFO  com.app.Main  - Please enter your choice(1-4)
