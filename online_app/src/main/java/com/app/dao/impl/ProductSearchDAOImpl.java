@@ -14,6 +14,35 @@ import com.app.exception.BusinessException;
 import com.app.model.Product;
 public class ProductSearchDAOImpl implements ProductSearchDAO {
 private static Logger log = Logger.getLogger(ProductSearchDAOImpl.class);
+
+
+@Override
+public List<Product> getAllProducts() throws BusinessException {
+List<Product> productList=new ArrayList<>();
+	try(Connection connection=MySqlDbConnection.getConnection()){
+		String sql="select product_id,product_name,price,quantity,rating,category from product";
+		PreparedStatement preparedStatement=connection.prepareStatement(sql);
+		
+		ResultSet resultSet=preparedStatement.executeQuery();
+		while(resultSet.next()) {
+			Product product=new Product();
+			product.setProduct_id(resultSet.getInt("product_id"));
+			product.setProduct_name(resultSet.getString("product_name"));
+			product.setPrice(resultSet.getDouble("price"));
+			product.setQuantity(resultSet.getFloat("quantity"));
+			product.setRating(resultSet.getFloat("rating"));
+			product.setCategory(resultSet.getString("category"));
+			productList.add(product);
+		}
+	} catch (ClassNotFoundException | SQLException e) {
+		System.out.println(e);//this will be replaced by logger
+		throw new BusinessException("Internal error occured, please contact support");
+	}
+	
+	return productList;
+}
+
+
 	@Override
 	public Product getProductByProduct_id(int product_id) throws BusinessException {
 		Product product=null;
@@ -30,8 +59,6 @@ private static Logger log = Logger.getLogger(ProductSearchDAOImpl.class);
 				product.setQuantity(resultSet.getFloat("quantity"));
 				product.setRating(resultSet.getFloat("rating"));
 				product.setCategory(resultSet.getString("category"));
-				
-				
 			}else {
 				throw new BusinessException("Entered product_id "+product_id+" doesnt exist");
 			}
